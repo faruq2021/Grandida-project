@@ -37,7 +37,7 @@ import {
   
   export default function SplitWithImage() {
     return (
-      <Container maxW={'5xl'} py={12}>
+      <Container maxW={'8xl'} py={12}>
         <SimpleGrid columns={{ base: 1, md: 2 }} spacing={10}>
           <Stack spacing={4}>
             <Text
@@ -49,12 +49,14 @@ import {
               p={2}
               alignSelf={'flex-start'}
               rounded={'md'}>
-              Our Story
+              
             </Text>
             <Heading>A digital Product design agency</Heading>
             <Text color={'gray.500'} fontSize={'lg'}>
-              Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
-              nonumy eirmod tempor invidunt ut labore
+              A town hall differfent from balablu, blublu, bulaba
+              that is why they can not make a down payment for a roasted 
+              corn on the highway, if you love me, go and get your APV, and 
+              you must vote.
             </Text>
             <Stack
               spacing={4}

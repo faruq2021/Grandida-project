@@ -46,7 +46,7 @@ import {
     maxW={'20xl'}
     py={4}
     direction={{ base: 'column', md: 'row' }}
-    spacing={4}
+    spacing={8}
     justify={{ base: 'center', md: 'space-between' }}
     align={{ base: 'center', md: 'center' }}>
     <Text>Made by Faruq@ Grandida</Text>

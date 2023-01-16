@@ -42,13 +42,13 @@ export default function CallToActionWithVideo() {
                 position: 'absolute',
                 bottom: 1,
                 left: 0,
-                bg: 'red.400',
+                bg: 'green.400',
                 zIndex: -1,
               }}>
               Decentralized Finance,
             </Text>
             <br />
-            <Text as={'span'} color={'red.400'}>
+            <Text as={'span'} color={'blue.400'}>
               Financial transparency 
             </Text>
           </Heading>
@@ -71,7 +71,7 @@ export default function CallToActionWithVideo() {
               fontWeight={'normal'}
               px={6}
               colorScheme={'red'}
-              bg={'red.400'}
+              bg={'green.400'}
               _hover={{ bg: 'red.500' }}>
               Get started
             </Button>
@@ -81,7 +81,7 @@ export default function CallToActionWithVideo() {
               fontWeight={'normal'}
               px={6}
               leftIcon={<PlayIcon h={4} w={4} color={'gray.300'} />}>
-              How It Works
+              Learn More
             </Button>
           </Stack>
   
