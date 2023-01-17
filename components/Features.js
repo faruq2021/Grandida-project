@@ -15,8 +15,6 @@ import {
     IoLogoBitcoin,
     IoSearchSharp,
   } from 'react-icons/io5';
-  import { ReactElement } from 'react';
-  
   
   const Feature = ({ text, icon, iconBg }) => {
     return (
@@ -57,6 +55,7 @@ import {
               that is why they can not make a down payment for a roasted 
               corn on the highway, if you love me, go and get your APV, and 
               you must vote.
+
             </Text>
             <Stack
               spacing={4}
